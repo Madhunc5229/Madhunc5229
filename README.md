@@ -7,7 +7,7 @@
   <img src="GITGIF.gif" width="1000"/>
 </div>
 
-<div id="badges" alighn="center">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/madhunc/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=My website&logoColor=white" alt="My Website Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Madhunc5229&style=flat-square&color=blue" alt=""/>
 
 <!-- [![My Website](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://madhunc5229.github.io/mnc/) -->
 
