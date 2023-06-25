@@ -1,14 +1,7 @@
-### Hi there 👋
 
----
-title: Madhu NC
-date: 2020-29-08
-spoiler: Creativity Readme Template
-categories: ["creativity", "all-profile"]
-githubUsername: 'Madhunc5229'
----
-<img src="git.png" alt="Alt text" title="">
+<!--<img src="git.png" alt="Alt text" title="">-->
 <!-- ![Header](git.png) -->
+![GITGIF](https://github.com/Madhunc5229/Madhunc5229/assets/61328094/12705948-49ef-477f-b217-40d5e4eef5fc)
 
 [![My Website](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
 
