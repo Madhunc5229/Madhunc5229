@@ -18,8 +18,16 @@
     <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=My website&logoColor=white" alt="My Website Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Madhunc5229&style=flat-square&color=blue" alt=""/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Madhunc5229&style=flat-square&color=blue" alt="" align="center"/> -->
+---
 
+### :man_technologist: About Me :
+I am a Robotics Software Engineer
+- :telescope: I’m interested in computer vision, motion planning and software development for Robotics. I enjoy building robots too.
+
+- :seedling: Recently, I completed my masters in Robotics at the University of Maryland, College Park.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhunc/)
 <!-- [![My Website](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://madhunc5229.github.io/mnc/) -->
 
 **Languages I have used**
