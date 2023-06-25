@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://madhunc5229.github.io/mnc/">
-    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=twitter&logoColor=white" alt="My Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=website&logoColor=white" alt="My Website Badge"/>
   </a>
 </div>
 
