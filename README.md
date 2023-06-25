@@ -27,10 +27,49 @@ I am a Robotics Software Engineer
 
 - :seedling: Recently, I completed my masters in Robotics at the University of Maryland, College Park.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhunc/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhunc/)
 <!-- [![My Website](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://madhunc5229.github.io/mnc/) -->
 
-**Languages I have used**
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+    
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+
+
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Ardiuno" alt="Ardiuno" width="40" height="40"/>&nbsp;
+
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="cmake" alt="cmake" width="40" height="40"/>&nbsp;
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/codecov/codecov-plain.svg" title="codecov" alt="codecov" width="40" height="40"/>&nbsp;
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/>&nbsp;
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Ardiuno" alt="Ardiuno" width="40" height="40"/>&nbsp;
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svgg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+
+
+
+</div>
+
+<!-- **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -42,7 +81,7 @@ I am a Robotics Software Engineer
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)<!-- wi*quL3fcV -->
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)wi*quL3fcV -->
 
 ---
 
