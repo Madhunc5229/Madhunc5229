@@ -1,10 +1,25 @@
 
 <!--<img src="git.png" alt="Alt text" title="">-->
 <!-- ![Header](git.png) -->
-![GITGIF](https://github.com/Madhunc5229/Madhunc5229/assets/61328094/3261a2b5-b35c-44a7-bba5-4444b034e068)
+<!-- ![GITGIF](https://github.com/Madhunc5229/Madhunc5229/assets/61328094/3261a2b5-b35c-44a7-bba5-4444b034e068) -->
 
+<div id="header" align="center">
+  <img src="GITGIF.gif" width="1000"/>
+</div>
 
-[![My Website](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://madhunc5229.github.io/mnc/)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/madhunc/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@madhunarrachittibabu2032/videos">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://madhunc5229.github.io/mnc/">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=twitter&logoColor=white" alt="My Website Badge"/>
+  </a>
+</div>
+
+<!-- [![My Website](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://madhunc5229.github.io/mnc/) -->
 
 **Languages I have used**
 
